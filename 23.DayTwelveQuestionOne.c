@@ -4,7 +4,6 @@ Next 5 days late: ₹4/day
 Next 20 days days late: ₹6/day 
 More than 30 days: Membership Cancelled.*/
 #include <stdio.h>
-
 int main() {
     int dayslate, fine;
     printf("Enter number of days late: ");
@@ -30,3 +29,4 @@ int main() {
     }
     return 0;
 }
+

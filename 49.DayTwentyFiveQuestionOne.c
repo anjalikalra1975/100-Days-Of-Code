@@ -6,7 +6,6 @@
 12345 */
 
 #include <stdio.h>
-
 int main() {
     int rows = 5;
 
@@ -20,3 +19,4 @@ int main() {
     }
     return 0;
 }
+
